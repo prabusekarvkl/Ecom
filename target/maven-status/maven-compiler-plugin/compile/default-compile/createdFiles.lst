@@ -1,0 +1,7 @@
+Ecom\Pages\CheckOutPage.class
+Ecom\Pages\AccountPage.class
+Ecom\Pages\Homepage.class
+Ecom\Base\TestBase.class
+Ecom\Pages\CartPage.class
+Ecom\Util\ReadExcel.class
+Ecom\Pages\StorePage.class

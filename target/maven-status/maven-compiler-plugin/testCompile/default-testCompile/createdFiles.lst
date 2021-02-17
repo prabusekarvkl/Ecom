@@ -1,0 +1,5 @@
+Ecom\Admin\TestCases\TestCart.class
+Ecom\Admin\TestCases\TestHomepage.class
+Ecom\Admin\TestCases\TestAccount.class
+Ecom\Admin\TestCases\TestStorePage.class
+Ecom\Admin\TestCases\TestCheckOut.class
